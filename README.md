@@ -8,7 +8,7 @@ TI. 22.A2
 
 ## Ekstraksi Fitur Bentuk dan Kontur
 
-### 1. 
+### 1. Invert
 ```
 import matplotlib.pyplot as plt
 from skimage.morphology import convex_hull_image
