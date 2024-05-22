@@ -39,6 +39,7 @@ plt.show()
 
 ### hasil
 
+IMG-20240522-WA0003.jpg
 
 ### 2. Menggunakan skeletonize (image) 
 
