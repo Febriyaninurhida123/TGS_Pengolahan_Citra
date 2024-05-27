@@ -38,8 +38,8 @@ plt.show()
 ```
 
 ### hasil
+![Figure_1](https://github.com/Febriyaninurhida123/TGS_Pengolahan_Citra/assets/90132092/e795d2e5-d0b6-4003-922f-3c104cd60f32)
 
-IMG-20240522-WA0003.jpg
 
 ### 2. Menggunakan skeletonize (image) 
 
@@ -72,6 +72,7 @@ plt.show()
 ```
 
 ### hasil
+![Figure_2](https://github.com/Febriyaninurhida123/TGS_Pengolahan_Citra/assets/90132092/6ab4e0ec-2970-4b1d-9936-4e7bff600114)
 
 ### 3. Active Contour
 
@@ -112,3 +113,4 @@ plt.show()
 ```
 
 ### Hasil
+![Figure_3](https://github.com/Febriyaninurhida123/TGS_Pengolahan_Citra/assets/90132092/b2a54a67-3b79-43c9-b7c1-ca675f97f144)
